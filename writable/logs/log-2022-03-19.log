@@ -1,0 +1,28 @@
+CRITICAL - 2022-03-19 03:54:07 --> Call to a member function findAll() on null
+#0 C:\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->index()
+#1 C:\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#2 C:\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\bancoRest\\pu...')
+#5 {main}
+CRITICAL - 2022-03-19 03:54:11 --> Call to a member function findAll() on null
+#0 C:\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->index()
+#1 C:\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#2 C:\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\bancoRest\\pu...')
+#5 {main}
+CRITICAL - 2022-03-19 03:58:33 --> Call to a member function findAll() on null
+#0 C:\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->index()
+#1 C:\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#2 C:\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\bancoRest\\pu...')
+#5 {main}
+CRITICAL - 2022-03-19 03:59:15 --> Call to a member function findAll() on null
+#0 C:\bancoRest\system\CodeIgniter.php(832): App\Controllers\API\Clientes->index()
+#1 C:\bancoRest\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#2 C:\bancoRest\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\bancoRest\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\bancoRest\system\Commands\Server\rewrite.php(43): require_once('C:\\bancoRest\\pu...')
+#5 {main}

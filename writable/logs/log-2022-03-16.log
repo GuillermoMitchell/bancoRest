@@ -1,0 +1,18 @@
+CRITICAL - 2022-03-16 22:26:40 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\bancoRest\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\bancoRest\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\bancoRest\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\bancoRest\spark(45): require('C:\\bancoRest\\sy...')
+#4 {main}
+CRITICAL - 2022-03-16 22:27:16 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\bancoRest\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\bancoRest\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\bancoRest\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\bancoRest\spark(45): require('C:\\bancoRest\\sy...')
+#4 {main}
+CRITICAL - 2022-03-16 22:27:22 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\bancoRest\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\bancoRest\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\bancoRest\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\bancoRest\spark(45): require('C:\\bancoRest\\sy...')
+#4 {main}
